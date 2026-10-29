@@ -1,0 +1,1 @@
+Arquivo auxiliar para iniciar uma nova execução do fluxo de publicação.
